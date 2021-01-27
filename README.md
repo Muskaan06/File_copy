@@ -1,5 +1,5 @@
 # File_copy
-In this project I had to read all the files from a given directory and categorise them with rescpect to their type i.e pdfs,txt,jpg etc.
+In this project I had to read all the files from a given directory and categorise them with respect to their type i.e pdfs,txt,jpg etc.
 The program would create a new directory for each type and store all the file in their respective type directories.
 This project helped learn about directory creation and modification through code and also introduced me to makefile.
 
